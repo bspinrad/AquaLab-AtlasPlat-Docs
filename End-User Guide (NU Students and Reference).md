@@ -4,7 +4,7 @@
 If you have never used the platform, the first step is to get in touch with the administrator. Currently, Northwestern's instance of the platform is maintained by Benjamin Spinrad. 
 BenjaminSpinrad2025@u.northwestern.edu
 
-Below are the basic components needed to make a request to the system using python. Please record the JobID returned to you in the response body to match it with your results email.
+Below are the basic components needed to make a request to the system using python.
 
 ```
 import requests
